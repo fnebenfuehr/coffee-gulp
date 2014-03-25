@@ -1,6 +1,6 @@
 {
   "name": "coffee-gulp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tiny module which wraps gulpjs to use CoffeeScript for your gulpfile.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:F1ow/coffee-gulp.git"
+    "url": "https://github.com/F1ow/coffee-gulp.git"
   },
   "keywords": [
     "gulpjs",
@@ -26,6 +26,6 @@
   "homepage": "https://github.com/F1ow/coffee-gulp",
   "dependencies": {
     "coffee-script": "^1.7.1",
-    "gulp": "^3.5.2"
+    "gulp": "^3.5.6"
   }
 }
